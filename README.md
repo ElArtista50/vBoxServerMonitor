@@ -1,2 +1,2 @@
 # vBoxServerMonitor
-Monitor Software for Virtualized Servers with VirtualBox.Restart the server if it hangs. 
+Win32 application to monitor a server running with Virtual Box. Restart the server if it hangs. 
