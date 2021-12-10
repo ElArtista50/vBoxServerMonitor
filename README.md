@@ -6,4 +6,4 @@ Application for Windows that monitors a virtualized server with VirtualBox and r
 
 
 
-Compilado con Microsoft Visual Studio Community 2019
+Microsoft Visual Studio Community 2019
