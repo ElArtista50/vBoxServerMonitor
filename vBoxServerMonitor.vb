@@ -168,9 +168,9 @@ Module vBoxServerMonitor
         Console.ForegroundColor = ConsoleColor.Magenta
         Console.Write(" " & vbCrLf)
         Console.Write("vBox Server Monitor v0.50" & vbCrLf)
-        Console.Write("Code By Juan Ramon Ferrer (jr@jrferrervalero.es)" & vbCrLf)
+        Console.Write("Coded By Juan Ramon Ferrer (jr@jrferrervalero.es)" & vbCrLf)
         Console.Write("-------------------------" & vbCrLf)
-        Console.Write("https://github.com/ElArtista50/" & vbCrLf)
+        Console.Write("https://github.com/jrferrervalero/" & vbCrLf)
         Console.Write("License GNU GPLv3" & vbCrLf)
         Console.Write("-------------------------" & vbCrLf)
         Console.Write("09/12/2021" & vbCrLf)
